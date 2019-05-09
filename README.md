@@ -27,4 +27,5 @@ however as we decided we would not make any commits without the other person pre
 ## Previous githubs
 As stated in the dissertation we also unsucessfully tried to implement our own CNN. while I had not intended to include this in the project as it was unsuccessful, at the advice of our cordinator I have included the relevant files inside our own CNN and the previous github account can be viewed at https://github.com/jamesk4167/ImageRecognitionCNN
 
-We have also included a video of our application working, it will need to be downloaded in order to be viewed
+We have uploaded a video of our expo application working and places it on youtube. it can be viewed at: <br/>
+https://www.youtube.com/watch?v=nrK8mWLofb0&feature=youtu.be
